@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>W3Schools Home Page</title>
+  <link>https://www.w3schools.com</link>
+  <description>Free web building tutorials</description>
+  <item>
+    <title>RSS Tutorial</title>
+    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc euismod ex eu ligula consectetur varius. Sed vitae cursus eros, ac finibus enim. Proin et dui consectetur, commodo sem in, cursus tortor. Vivamus luctus urna ante, ac ultricies velit finibus at. Vestibulum nunc magna, finibus ut tincidunt ac, gravida efficitur mi. Quisque a feugiat massa. Pellentesque laoreet, ligula eu bibendum ullamcorper, lacus eros placerat leo, ut interdum lorem turpis in diam. Proin ac nibh eget est faucibus consequat a quis sapien.
+Vivamus sollicitudin odio vel consectetur gravida. Aenean imperdiet a quam in lobortis. Sed at eros at elit ultrices elementum eget quis risus. Donec dapibus erat id lorem vulputate euismod. Praesent euismod massa vitae enim laoreet laoreet. Integer purus justo, faucibus sed tempor eu, sollicitudin at leo. Fusce mollis tempus nibh id rhoncus. Aenean elementum ex dolor, id accumsan mi dictum eget. Aliquam erat volutpat. In id lacus lobortis, congue mauris sed, sagittis velit. Nulla imperdiet augue sed egestas aliquam. Donec ac accumsan est. Aliquam tortor libero, ultricies eget cursus vitae, consequat eget ur</description>
+    <author>h@test.com</author>
+    <category>rss,actu,france,congo</category>
+  </item>
+  <item>
+    <title>XML Tutorial</title>
+    <link>https://www.w3schools.com/xml</link>
+    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc euismod ex eu ligula consectetur varius. Sed vitae cursus eros, ac finibus enim. Proin et dui consectetur, commodo sem in, cursus tortor. Vivamus luctus urna ante, ac ultricies velit finibus at. Vestibulum nunc magna, finibus ut tincidunt ac, gravida efficitur mi. Quisque a feugiat massa. Pellentesque laoreet, ligula eu bibendum ullamcorper, lacus eros placerat leo, ut interdum lorem turpis in diam. Proin ac nibh eget est faucibus consequat a quis sapien.
+Vivamus sollicitudin odio vel consectetur gravida. New XML tutorial on W3Schools</description>
+  </item>
+</channel>
+
+</rss>
