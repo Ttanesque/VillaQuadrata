@@ -1,0 +1,14 @@
+{
+  "navigation": {
+    "acceuil": "Home",
+    "actualite": "News"
+  },
+  "language": {
+    "fr": "fr",
+    "en": "us",
+    "nom": {
+      "fr": "Français",
+      "en": "Anglais..."
+    }
+  }
+}

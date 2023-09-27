@@ -41,7 +41,15 @@ const itemNodeToArticle = (itemNode) => {
     if (!article[enclosure]) {
         article[enclosure] = defaultVignette;
     }
-    console.log(article)
 
     return article;
+}
+
+// https://dev.to/jorik/country-code-to-flag-emoji-a21
+export const getFlagEmoji = (countryCode) => {
+  const codePoints = countryCode
+    .toUpperCase()
+    .split('')
+    .map(char =>  127397 + char.charCodeAt());
+  return String.fromCodePoint(...codePoints);
 }

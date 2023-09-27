@@ -7,7 +7,7 @@
         to="/"
       >
         <li>
-          <h2 class="flex justify-center">Acceuil</h2>
+          <h2 class="flex justify-center">{{ $t("navigation.acceuil") }}</h2>
         </li>
       </router-link>
       <router-link
@@ -15,11 +15,17 @@
         to="/actuality"
       >
         <li>
-          <h2 class="flex justify-center">Actualités</h2>
+          <h2 class="flex justify-center">{{ $t("navigation.actualite") }}</h2>
         </li>
       </router-link>
-      <li></li>
+      <SelecteurLanguage/>
     </ul>
   </nav>
 </template>
-<script></script>
+<script>
+import SelecteurLanguage from '@/components/SelecteurLanguage.vue';
+
+export default {
+  components: { SelecteurLanguage }
+}
+</script>
