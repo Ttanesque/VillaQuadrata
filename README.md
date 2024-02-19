@@ -1,3 +1,3 @@
 # VillaQuadrata
 
-A small project for try idea with VueJs.
+A small project for try VueJs.
