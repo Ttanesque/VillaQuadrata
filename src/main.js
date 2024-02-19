@@ -8,7 +8,8 @@ import './style.css';
 export const i18n = setupI18n({
   legacy: false,
   locale: 'fr',
-  fallbackLocale: 'en'
+  fallbackLocale: 'en',
+  globalInjection: true
 });
 
 // load fallback language

@@ -6,9 +6,11 @@
   "language": {
     "fr": "fr",
     "en": "us",
+    "ja": "jp",
     "nom": {
       "fr": "Français",
-      "en": "Anglais..."
+      "en": "Anglais...",
+      "ja": "Japonnais"
     }
   }
 }
